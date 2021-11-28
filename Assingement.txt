@@ -1,0 +1,3 @@
+1) if any hour min or sec of of single digit add 0 before
+use function updateTime()
+2) convert this clock into AM and PM

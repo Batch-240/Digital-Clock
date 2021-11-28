@@ -5,7 +5,7 @@ function currentTime(){
     let second = date.getSeconds()
 
     let time = `${hour} : ${minute} : ${second}`
-    // console.log(time)
+    console.log(time)
     // if any hour min or sec of of single digit add 0 before
     // updateTime()
     // convert this clock into AM and PM
